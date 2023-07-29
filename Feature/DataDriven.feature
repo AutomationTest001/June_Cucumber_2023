@@ -14,5 +14,5 @@ Feature: Calculator Functionality
     Examples: 
       | firstNumber | secondNumber | operator | Result |
       |           4 |            3 | +        |      7 |
-      |           8 |            2 | -        |      7 |
+      |           8 |            2 | -        |      6 |
       |           3 |            4 | *        |     12 |
